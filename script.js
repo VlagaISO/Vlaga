@@ -236,7 +236,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Hi! My name is Vlaga. I'm still playing ISO so calmed. Have fun and welcome to my world.",
+    "Hi! My name is Vlaga. I'm still playing ISO so calmed. Have fun and welcome to my digital world.",
     "\"Time to gear up, right?\""
   ];
   let bioText = '';
